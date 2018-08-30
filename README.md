@@ -8,7 +8,7 @@ To try the code, run from the terminal:
 
 ```shell
 git clone https://github.com/amarchisio/Skype-Clone.git
-cd skypey
+cd Skype-Clone
 yarn install
 yarn start
 ```
