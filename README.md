@@ -28,21 +28,6 @@ yarn start
 Either [npm][npm] or [yarn][yarn] is needed to install dependencies and start
 the development server. [Git][git] is needed to clone and start the application.
 
-### Setting up Dev
-
-If you want to use this code to develop your own app, feel free to fork the
-project. Then (substituting {username} and {project-name} with your correct
-values) simply run  from a terminal:
-
-```shell
-git clone https://github.com/{username}/{project-name}.git
-cd {project-name}
-yarn install
-yarn start
-```
-
-
-
 ## Style guide
 
 Organise code according to Redux's [three principles][redux-three-principles].
