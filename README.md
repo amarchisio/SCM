@@ -1,5 +1,5 @@
 
-# Skype-Clone
+# Simple-Chat-Messenger
 > A Skype clone made with React + Redux and TypeScript.
 
 ## Installing / Getting started
@@ -7,7 +7,7 @@
 To try the code, run from the terminal:
 
 ```shell
-git clone https://github.com/amarchisio/Skype-Clone.git
+git clone https://github.com/amarchisio/SCM.git
 cd Skype-Clone
 yarn install
 yarn start
