@@ -8,7 +8,7 @@ To try the code, run from the terminal:
 
 ```shell
 git clone https://github.com/amarchisio/SCM.git
-cd Skype-Clone
+cd SCM
 yarn install
 yarn start
 ```
