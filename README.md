@@ -25,5 +25,5 @@ yarn start
 
 ### Prerequisites
 
-Either [npm][npm] or [yarn][yarn] is needed to install dependencies and start
-the development server. [Git][git] is needed to clone and start the application.
+Either npm or yarn is needed to install dependencies and start
+the development server. Git is needed to clone and start the application.
